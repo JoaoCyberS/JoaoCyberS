@@ -8,5 +8,5 @@
 <h2>Qualifications</h2>
 
  - <b>Cybersecurity Professional Intelligence</b>
-   - [Certificate]( 
+   - [Certificate](https://github.com/JoaoCyberS/JoaoCyberS/blob/main/Certifica%C3%A7%C3%A3o%20Master.D.pdf)
 
